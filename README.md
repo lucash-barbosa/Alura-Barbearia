@@ -2,5 +2,5 @@
 :book: Trabalhando html e css
 
 ## 📁 Acesso
-É possivel acessar o site <a href="https://alura-plus-7kkdmfc4g-lucaslkj.vercel.app/">aqui</a>
-ou <a href="https://github.com/Lucas-Henrique-Barbosa/AluraPlus/archive/refs/heads/main.zip">baixá-lo</a>
+É possivel acessar o site <a href="https://barbearia-alura-gm7y0x3ol-lucaslkj.vercel.app/index.html">aqui</a>
+ou <a href="https://github.com/lucash-barbosa/Barbearia-Alura/archive/refs/heads/master.zip">baixá-lo</a>
