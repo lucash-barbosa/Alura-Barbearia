@@ -1,0 +1,10 @@
+.container-contato {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 50px 0;
+}
+
+.contato img {
+    width: 30%;
+}
