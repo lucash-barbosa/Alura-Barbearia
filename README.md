@@ -1,6 +1,6 @@
 # Barbearia-Alura
 
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=STATUS&logo=STATUS&style=for-the-badge&up_message=FINALIZADO&url=https%3A%2F%2Fshields.io)
+![Website](https://img.shields.io/website?down_color=lightgrey&style=flat-square&logo=appveyor&down_message=offline&label=STATUS&logo=STATUS&style=for-the-badge&up_message=FINALIZADO&url=https%3A%2F%2Fshields.io)
 
 :book: Trabalhando html e css. Focando na visualização de itens externos dentro do programa
 
