@@ -2,7 +2,7 @@
 
 ![Website](https://img.shields.io/website?down_color=lightgrey&style=flat-square&logo=appveyor&down_message=offline&label=STATUS&logo=STATUS&style=for-the-badge&up_message=FINALIZADO&url=https%3A%2F%2Fshields.io)
 
-:book: Trabalhando html e css. Focando na visualização de itens externos dentro do programa
+:book: Projeto desenvolvido durante o curso de css Alura
 
 ## 📁 Acesso
 É possivel acessar o site <a href="https://barbearia-alura-gm7y0x3ol-lucaslkj.vercel.app/index.html">aqui</a>
