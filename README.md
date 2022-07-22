@@ -2,7 +2,7 @@
 
 ![Website](https://img.shields.io/website?down_color=lightgrey&style=flat-square&logo=appveyor&down_message=offline&label=STATUS&logo=STATUS&style=for-the-badge&up_message=FINALIZADO&url=https%3A%2F%2Fshields.io)
 
-:book: Projeto desenvolvido durante o curso de css Alura
+:book: Projeto desenvolvido durante o curso HTML5 e CSS3 parte 4: avançando no CSS da Alura
 
 ## 📁 Acesso
 É possivel acessar o site <a href="https://barbearia-alura-m70cku6uu-lucaslkj.vercel.app/">aqui</a>
